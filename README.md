@@ -29,4 +29,10 @@ https://github.com/piton1/DS/tree/Lesson_6
 
 #### Корреляционный анализ
 
+[Занятие6.3_Corr_YahooFinance_web_parsing_BS.ipynb](https://github.com/piton1/DS/blob/Lesson_6/%D0%97%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B56.3_Corr_YahooFinance_web_parsing_BS.ipynb)
+
 #### Exploratory data analysis
+
+[Занятие6.4_EDA.ipynb](https://github.com/piton1/DS/blob/Lesson_6/%D0%97%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B56.4_EDA.ipynb)
+
+[EDA_exsample_data.csv](https://github.com/piton1/DS/blob/Lesson_6/EDA_exsample_data.csv)
