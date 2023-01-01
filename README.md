@@ -28,8 +28,10 @@ https://github.com/piton1/DS/tree/Lesson_6
 [orders.csv](https://github.com/piton1/DS/blob/Lesson_6/orders.csv)
 
 #### Корреляционный анализ
-
+##### Парсинг сайта Yahoo Finance (устаревшая версия, может не работать)
 [Занятие6.3_Corr_YahooFinance_web_parsing_BS.ipynb](https://github.com/piton1/DS/blob/Lesson_6/%D0%97%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B56.3_Corr_YahooFinance_web_parsing_BS.ipynb)
+##### Использование Pandas Datareader
+[Занятие6.3_Corr_YahooFinance_web_parsing_PDR.ipynb](https://github.com/piton1/DS/blob/Lesson_6/Занятие6.3_Corr_YahooFinance_web_parsing_PDR.ipynb)
 
 #### Exploratory data analysis
 
